@@ -26,7 +26,7 @@
     <orekit.maven-bundle-plugin.version>2.5.4</orekit.maven-bundle-plugin.version>
     <orekit.maven-changes-plugin.version>2.11</orekit.maven-changes-plugin.version>
     <orekit.maven-checkstyle-plugin.version>2.15</orekit.maven-checkstyle-plugin.version>
-    <orekit.checkstyle.version>6.6</orekit.checkstyle.version>
+    <orekit.checkstyle.version>8.29</orekit.checkstyle.version>
     <orekit.maven-clean-plugin.version>2.6.1</orekit.maven-clean-plugin.version>
     <orekit.maven-compiler-plugin.version>3.3</orekit.maven-compiler-plugin.version>
     <orekit.maven-javadoc-plugin.version>2.10.3</orekit.maven-javadoc-plugin.version>
@@ -42,7 +42,7 @@
     <orekit.jgit.buildnumber.version>1.2.10</orekit.jgit.buildnumber.version>
     <orekit.plantuml.version>7999</orekit.plantuml.version>
     <orekit.apache-commons-math.version>3.6</orekit.apache-commons-math.version>
-    <orekit.junit.version>4.12</orekit.junit.version>
+    <orekit.junit.version>4.13.1</orekit.junit.version>
     <orekit.compiler.source>1.6</orekit.compiler.source>
     <orekit.compiler.target>1.6</orekit.compiler.target>
     <orekit.implementation.build>${git.revision}; ${maven.build.timestamp}</orekit.implementation.build>
